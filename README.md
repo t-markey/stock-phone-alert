@@ -6,31 +6,32 @@ Providing Phone/Text alerts when equities reach a certain level.  Allows you to 
 
 ## Version 1.0 to do
 
-Create repo
-Basic setup
-Yfinance test alert for levels of price action
-Beginning with a solo stock or index ( S&P, TSLA, BTC)
-Twilio test for text alert
-Twilio test for phone call
-Come up with names
+
+Basic setup <br /> 
+Yfinance test alert for levels of price action <br /> 
+Beginning with a solo stock or index ( S&P, TSLA, BTC) <br /> 
+Email Alert first <br /> 
+Twilio api test for text alert <br /> 
+Twilio test for phone call <br /> 
+
 
 
 
 ## Next features
 
 
-****Call number get current stock price
-Better data source for levels
-Create watchlist
-Daily email summary of watchlist
-Include chart in email for relevant stock moves 
-Unsubscribe feature
-User login, database
-Portfolio tracking, call see status
-Scan for patterns , sma crossovers, indicators
-Overnight futures alerts on big moves
-Daily market updates to wake up to , ie: cnbc without the BS
-Scan for relevent stocks and big % movers
+****Call number get current stock price <br /> 
+Better data source for levels <br /> 
+Create watchlist <br /> 
+Daily email summary of watchlist <br /> 
+Include chart in email for relevant stock moves  <br /> 
+Unsubscribe feature <br /> 
+User login, database <br /> 
+Portfolio tracking, call see status <br /> 
+Scan for patterns , sma crossovers, indicators <br /> 
+Overnight futures alerts on big moves <br /> 
+Daily market updates to wake up to , ie: cnbc without the BS <br /> 
+Scan for relevent stocks and big % movers <br /> 
 
 
 
